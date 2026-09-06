@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+export PYTHONPATH=/usr/local/lib/python3.6/site-packages:$PYTHONPATH
+cd /home/homer/HI_Interpreter/
+/usr/bin/python3 HtV_interpreter.py
